@@ -1,0 +1,67 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Remote Control Car",
+            "buyPrice": "6,00",
+            "sellPrice": "10,00",
+            "amount": 20
+        },
+        {
+            "id": 2,
+            "name": "Ball",
+            "buyPrice": "3,00",
+            "sellPrice": "7,00",
+            "amount": 20
+        },
+        {
+            "id": 3,
+            "name": "Action Figure Bumblebee",
+            "buyPrice": "7,00",
+            "sellPrice": "12,00",
+            "amount": 20
+        },
+        {
+            "id": 4,
+            "name": "Doll",
+            "buyPrice": "2,50",
+            "sellPrice": "6,00",
+            "amount": 20
+        },
+        {
+            "id": 5,
+            "name": "Skateboard",
+            "buyPrice": "9,00",
+            "sellPrice": "15,00",
+            "amount": 20
+        },
+        {
+            "id": 6,
+            "name": "Chess Game",
+            "buyPrice": "8,00",
+            "sellPrice": "13,00",
+            "amount": 20
+        },
+        {
+            "id": 7,
+            "name": "Laptop",
+            "buyPrice": "800,00",
+            "sellPrice": "1200,00",
+            "amount": 20
+        },
+        {
+            "id": 8,
+            "name": "Fan",
+            "buyPrice": "20,00",
+            "sellPrice": "40,00",
+            "amount": 20
+        },
+        {
+            "id": 9,
+            "name": "Game Chair",
+            "buyPrice": "25,00",
+            "sellPrice": "42,00",
+            "amount": 20
+        }
+    ]
+}
